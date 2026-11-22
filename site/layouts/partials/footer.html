@@ -4,7 +4,7 @@
 
 		<div class="measure-narrow center mb4">
 
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
+			<img src="/img/logo.svg" alt="En Las Tablas logo" class="db w4 center mb4 br0">
 			<p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.footer.title }}</p>
 			<p>{{ .Site.Data.footer.blurb }}</p>
 
@@ -15,12 +15,13 @@
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
+				<h3 class="f4 b lh-title mb1 primary">En Las Tablas</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
 					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
+					<li><a href="/products" class="link">Classes</a></li>
+					<li><a href="/events" class="link">Events</a></li>
+					<li><a href="/support" class="link">Support</a></li>
 					<li><a href="/contact" class="link">Contact</a></li>
 				</ul>
 			</div>
@@ -28,18 +29,17 @@
 			<div>
 				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
 				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule an appointment</a></li>
+					<li><a href="/products" class="link">Class schedule</a></li>
+					<li><a href="/contact" class="link">Schedule a visit</a></li>
 				</ul>
 			</div>
 
 			<div>
 				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook" "alt" "Kaldi on Facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter" "alt" "Kaldi on Twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram" "alt" "Kaldi on Instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo" "alt" "Kaldi on Vimeo") }}
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/enlastablas.performingarts" "svg" "icons-facebook" "alt" "En Las Tablas on Facebook") }}
+					{{ partial "social-icon" (dict "link" "https://www.instagram.com/enlastablas" "svg" "icons-instagram" "alt" "En Las Tablas on Instagram") }}
+					{{ partial "social-icon" (dict "link" "https://www.youtube.com/user/EnLasTablas" "svg" "icons-vimeo" "alt" "En Las Tablas on YouTube") }}
 				</ul>
 			</div>
 

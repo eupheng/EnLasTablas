@@ -14,4 +14,20 @@
 
 </div>
 
+{{ with .Params.board }}
+<div class="bg-off-white pv4">
+  <div class="mw7 center ph3">
+    <h2 class="f2 b lh-title mb3">{{ .heading }}</h2>
+    <div class="flex-ns flex-wrap mhn2-ns">
+      {{ range .members }}
+      <div class="ph2-ns w-50-ns mb3">
+        <h3 class="f4 b lh-title mb1">{{ .name }}</h3>
+        <p class="mb0">{{ .role }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
 {{ end }}

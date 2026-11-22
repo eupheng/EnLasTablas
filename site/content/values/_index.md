@@ -1,45 +1,44 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "About"
+image: /img/IMG_4872-scaled.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Our Mission"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      En Las Tablas Performing Arts aims to provide an open, safe, and affirming
+      space where participants can explore their own artistic expression. These
+      experiences are geared toward educating, celebrating, and connecting
+      participants with each other, their culture, and a rich artistic history.
+    imageUrl: "/img/beginning_ballet.jpg"
+  - heading: "Philosophy"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Our educational and artistic philosophy is centered on health,
+      environmental, and cultural awareness. We believe that by teaching our
+      students to care for their bodies, mind, and environment, we also help them
+      care for and respect one another.
+    imageUrl: "/img/Choreography.jpg"
+  - heading: "History"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Established in 2006 in Chicago, ELTPA has offered children and adults from
+      the Hermosa Neighborhood and surrounding communities affordable access to
+      performing arts classes and professional artistic training opportunities.
+    imageUrl: "/img/hip_hop.jpg"
+  - heading: "Testimonial"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      "En Las Tablas Performing Arts has helped my kids in many aspects—socially,
+      artistically, and mentally. Their confidence has grown tremendously as well."
+      — Elena, Parent
+    imageUrl: "/img/Break-Dance.jpg"
+board:
+  heading: "Board of Directors"
+  members:
+    - name: "Dr. Milka Ramirez"
+      role: "President"
+    - name: "Mr. Hobert Holloway"
+      role: "Secretary"
+    - name: "Ms. Noemy Quiñones"
+      role: "Treasurer"
+    - name: "Mrs. Mayari Guzman-Katz"
+      role: "Member"
+    - name: "Ms. Maritza Nazario"
+      role: "Executive Director"
 ---

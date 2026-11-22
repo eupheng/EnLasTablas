@@ -1,20 +1,63 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "En Las Tablas Performing Arts"
+subtitle: "Bilingual/Bicultural Arts Education for All Ages in Chicago"
+image: /img/IMG_4872-scaled.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "Dance Education"
+    text: "En Las Tablas Performing Arts offers bilingual/bicultural dance, theatre, and music courses for all ages, building confidence, artistry, and community in Chicago."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    heading: "Our Classes"
+    text: "We provide affordable, high-quality performing arts classes for children, teens, and adults in a welcoming and supportive environment."
+classes:
+    - image: img/beginning_ballet.jpg
+      category: "Dance"
+      audience: "Children"
+      title: "Pre-Ballet I & II"
+      text: "Introduction to ballet basics for young children in a fun and supportive environment. Our pre-ballet classes focus on developing coordination, musicality, and basic ballet positions through creative movement and imaginative play."
+      age: "Age: 3-7 Years"
+      schedule: "Saturdays"
+      price: "$35"
+    - image: img/Break-Dance.jpg
+      category: "Dance"
+      audience: "All Ages"
+      title: "Break-Dance"
+      text: "Learn break-dance fundamentals including top rock, footwork, and freezes. Our instructors teach authentic hip-hop dance techniques in a supportive environment."
+      age: ""
+      schedule: "Various Days"
+      price: "$35"
+    - image: img/hip_hop.jpg
+      category: "Dance"
+      audience: "All Ages"
+      title: "Hip-Hop"
+      text: "High-energy hip-hop dance classes with the latest moves and styles. Students learn choreography and develop their own freestyle abilities."
+      age: ""
+      schedule: "Mondays"
+      price: "$35"
+    - image: img/beginning_ballet.jpg
+      category: "Dance"
+      audience: "All Ages"
+      title: "Beginning Ballet"
+      text: "Fundamental ballet techniques for beginners. Classes focus on proper alignment, positions, and basic movements."
+      age: ""
+      schedule: "Saturdays"
+      price: "$35"
+    - image: img/Choreography.jpg
+      category: "Dance"
+      audience: "All Ages"
+      title: "Choreography I"
+      text: "Learn the art of creating dance routines and performances. Students explore movement composition and develop their artistic voice."
+      age: ""
+      schedule: "Wednesdays"
+      price: "$35"
+    - image: img/Cheerleading.jpg
+      category: "Spirit"
+      audience: "All Ages"
+      title: "Cheerleading"
+      text: "Learn cheerleading basics including chants, jumps, and routines. Build confidence and team spirit in a fun, supportive environment."
+      age: ""
+      schedule: "Saturdays"
+      price: "$35"
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: "Our Story"
+    text: "En Las Tablas Performing Arts (ELTPA) is a nonprofit community arts organization established in Chicago in 2006 to offer children and adults from the Hermosa Neighborhood, and surrounding communities, affordable access to an array of performing arts classes and professional artistic training opportunities."
 ---
-
