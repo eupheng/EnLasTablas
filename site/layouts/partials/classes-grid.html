@@ -1,0 +1,24 @@
+<div class="bg-off-white pv4">
+  <div class="ph3 mw7 center">
+    <h2 class="f2 b lh-title mb2">Our Classes</h2>
+    <p class="mb4 mw6">Affordable, welcoming performing arts classes for children, teens, and adults.</p>
+
+    <div class="flex-ns flex-wrap mhn2-ns mb3">
+      {{ range . }}
+      <div class="ph2-ns w-50-ns mb4">
+        <img src="{{.image}}" alt="{{.title}}" class="center db mb3" style="width: 240px">
+        <p class="ttu f6 b primary mb1">{{.category}} &bull; {{.audience}}</p>
+        <h3 class="f4 b lh-title mb2">{{.title}}</h3>
+        <p>{{.text}}</p>
+        <p class="f6 grey-3">
+          {{ if .age }}{{.age}} &bull; {{ end }}{{.schedule}} &bull; {{.price}}
+        </p>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="tc">
+      <a href="/products" class="btn raise">See all classes</a>
+    </div>
+  </div>
+</div>
